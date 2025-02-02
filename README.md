@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDevSolutions&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="146" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDevSolutions&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDevSolutions&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDevSolutions&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="110" alt="stats graph"  />
 </div>
 
 ###
@@ -27,12 +27,12 @@
 
 ###
 
-<img align="right" height="109" src="https://4.bp.blogspot.com/-sLKe54arVeY/V553A_FHdrI/AAAAAAAAia8/FMyKlwYhvhcCvVhVXPK_5MBky683CbzqwCKgB/s1600/Omake%2BGif%2BAnime%2B-%2BRe%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2B-%2BEpisode%2B18%2B-%2BRem%2BStart%2BFrom%2BZero.gif"  />
+<img align="left" height="90" src="https://4.bp.blogspot.com/-sLKe54arVeY/V553A_FHdrI/AAAAAAAAia8/FMyKlwYhvhcCvVhVXPK_5MBky683CbzqwCKgB/s1600/Omake%2BGif%2BAnime%2B-%2BRe%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2B-%2BEpisode%2B18%2B-%2BRem%2BStart%2BFrom%2BZero.gif"  />
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jorge-luiz-padilha-do-amaral-9aa353217/" target="_blank">
+  <a href="www.linkedin.com/in/jorge-luiz-padilha-do-amaral" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
