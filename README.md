@@ -43,6 +43,8 @@
 
 <img src="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/snake.svg" alt="Snake animation" />
 
+</br>
+
 ###
 
 <div align="center">
