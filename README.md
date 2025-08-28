@@ -34,7 +34,7 @@
 <div align="left">
   <a href="www.linkedin.com/in/jorge-luiz-padilha-do-amaral" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  </a> 
 </div>
 
 ###
@@ -44,11 +44,12 @@
 <img src="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/snake.svg" alt="Snake animation" />
 
 </br>
-
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JorgeDevSolutions/count.svg?"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
