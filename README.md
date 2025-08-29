@@ -28,11 +28,3 @@
 ###
 
 <img align="left" height="90" src="https://4.bp.blogspot.com/-sLKe54arVeY/V553A_FHdrI/AAAAAAAAia8/FMyKlwYhvhcCvVhVXPK_5MBky683CbzqwCKgB/s1600/Omake%2BGif%2BAnime%2B-%2BRe%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2B-%2BEpisode%2B18%2B-%2BRem%2BStart%2BFrom%2BZero.gif"  />
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/jorge-luiz-padilha-do-amaral" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a> 
-</div>
