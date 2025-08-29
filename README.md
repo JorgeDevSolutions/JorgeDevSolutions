@@ -30,6 +30,7 @@
 <img align="left" height="90" src="https://4.bp.blogspot.com/-sLKe54arVeY/V553A_FHdrI/AAAAAAAAia8/FMyKlwYhvhcCvVhVXPK_5MBky683CbzqwCKgB/s1600/Omake%2BGif%2BAnime%2B-%2BRe%2BZero%2Bkara%2BHajimeru%2BIsekai%2BSeikatsu%2B-%2BEpisode%2B18%2B-%2BRem%2BStart%2BFrom%2BZero.gif"  />
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeDevSolutions/JorgeDevSolutions/output/pacman-contribution-graph.svg">
